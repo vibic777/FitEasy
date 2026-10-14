@@ -2,6 +2,10 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
+**Лицензия:** [PolyForm Noncommercial 1.0.0](LICENSE). Некоммерческое использование разрешено. Коммерческое использование — только по отдельному соглашению с vibic777.
+**License:** [PolyForm Noncommercial 1.0.0](LICENSE). Noncommercial use is allowed. Commercial use requires a separate agreement with vibic777.
+
+
 > A weight-loss diary that started with a request at home. The brief stayed soft. The interesting part is already visible.
 
 **FitEasy** began as a personal request: a diary for losing weight. The specification was never pinned down, so the project grows from ideas that appear while it is being built.
