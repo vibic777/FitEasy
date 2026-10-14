@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The name the system shows (D128): FitEasy; values-ru gives the Russian one. -->
+<resources>
+    <string name="app_name" translatable="true">FitEasy</string>
+</resources>

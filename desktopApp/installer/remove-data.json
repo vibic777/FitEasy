@@ -1,0 +1,12 @@
+{
+ "en":"Delete all FitEasy data for this Windows user?\n\nYes: delete the diary, settings, keys and journal after successful removal.\nNo: keep them for reinstalling (default).\nExternal backups and portable copies are not affected.\nCancel: cancel removal.",
+ "ru":"Удалить все данные FitEasy этого пользователя Windows?\n\nДа — удалить дневник, настройки, ключи и журнал после успешного удаления программы.\nНет — сохранить для переустановки (по умолчанию).\nВнешние резервные копии и portable-копии не затрагиваются.\nОтмена — отменить удаление.",
+ "be":"Выдаліць усе даныя FitEasy гэтага карыстальніка Windows?\n\nТак — выдаліць дзённік, налады, ключы і журнал пасля паспяховага выдалення.\nНе — захаваць для пераўсталявання (па змаўчанні).\nЗнешнія рэзервовыя і portable-копіі не закранаюцца.\nСкасаваць — спыніць выдаленне.",
+ "fr":"Supprimer toutes les données FitEasy de cet utilisateur Windows ?\n\nOui : supprimer le journal, les réglages, les clés et les logs après la désinstallation réussie.\nNon : conserver pour réinstaller (par défaut).\nLes sauvegardes externes et copies portables sont conservées.\nAnnuler : annuler la désinstallation.",
+ "de":"Alle FitEasy-Daten dieses Windows-Benutzers löschen?\n\nJa: Tagebuch, Einstellungen, Schlüssel und Protokolle nach erfolgreicher Deinstallation löschen.\nNein: für eine Neuinstallation behalten (Standard).\nExterne Sicherungen und portable Kopien bleiben erhalten.\nAbbrechen: Deinstallation abbrechen.",
+ "es":"¿Eliminar todos los datos FitEasy de este usuario de Windows?\n\nSí: eliminar diario, ajustes, claves y registros después de desinstalar correctamente.\nNo: conservar para reinstalar (predeterminado).\nLas copias externas y portátiles se conservan.\nCancelar: cancelar la desinstalación.",
+ "it":"Eliminare tutti i dati FitEasy di questo utente Windows?\n\nSì: eliminare diario, impostazioni, chiavi e log dopo la disinstallazione riuscita.\nNo: conservare per reinstallare (predefinito).\nBackup esterni e copie portabili sono conservati.\nAnnulla: annullare la disinstallazione.",
+ "zh":"删除此Windows用户的全部FitEasy数据？\n\n是：卸载成功后删除日记、设置、密钥和日志。\n否：保留以便重新安装（默认）。\n外部备份和便携版数据不会删除。\n取消：取消卸载。",
+ "ja":"このWindowsユーザーのFitEasyデータをすべて削除しますか？\n\nはい：アンインストール成功後に日記、設定、鍵、ログを削除します。\nいいえ：再インストール用に保持します（既定）。\n外部バックアップとポータブル版は保持されます。\nキャンセル：アンインストールを中止します。",
+ "ko":"이 Windows 사용자의 FitEasy 데이터를 모두 삭제할까요?\n\n예: 제거 성공 후 일지, 설정, 키 및 로그를 삭제합니다.\n아니요: 재설치를 위해 보관합니다 (기본값).\n외부 백업과 포터블 사본은 보관됩니다.\n취소: 제거를 취소합니다."
+}

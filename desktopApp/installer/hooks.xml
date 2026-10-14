@@ -1,0 +1,15 @@
+<!-- FitEasy additions inserted into the build runtime's standard jpackage main.wxs. -->
+<Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOXTEXT" Value="Launch FitEasy" />
+<Property Id="WIXUI_EXITDIALOGOPTIONALCHECKBOX" Value="1" />
+<Property Id="WixShellExecTarget" Value="[INSTALLDIR]$(var.JpAppName).exe" />
+<CustomAction Id="FitEasyLaunch" BinaryKey="WixCA" DllEntry="WixShellExec" Impersonate="yes" />
+<UI>
+ <Publish Dialog="ExitDialog" Control="Finish" Event="DoAction" Value="FitEasyLaunch" Order="1">WIXUI_EXITDIALOGOPTIONALCHECKBOX = 1 AND NOT Installed AND UILevel &gt;= 5</Publish>
+</UI>
+<CustomAction Id="FitEasyPowerShell" Property="FITEASY_POWERSHELL" Value="[System64Folder]WindowsPowerShell\v1.0\powershell.exe" />
+<CustomAction Id="FitEasyCloseRunning" Property="FITEASY_POWERSHELL" Execute="immediate" Impersonate="yes" Return="check"
+ ExeCommand="-NoProfile -NonInteractive -WindowStyle Hidden -EncodedCommand @CLOSE_SCRIPT@" />
+<InstallUISequence>
+ <Custom Action="FitEasyPowerShell" Before="FitEasyCloseRunning">NOT REMOVE="ALL"</Custom>
+ <Custom Action="FitEasyCloseRunning" Before="ExecuteAction">NOT REMOVE="ALL"</Custom>
+</InstallUISequence>

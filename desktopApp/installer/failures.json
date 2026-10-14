@@ -1,0 +1,12 @@
+{
+ "en":"Unable to open the installer. Download it again or use the MSI package.",
+ "ru":"Не удалось открыть установщик. Скачайте его повторно или используйте MSI-пакет.",
+ "be":"Не атрымалася адкрыць усталёўшчык. Спампуйце яго зноў або выкарыстайце MSI-пакет.",
+ "fr":"Impossible d’ouvrir le programme d’installation. Téléchargez-le à nouveau ou utilisez le fichier MSI.",
+ "de":"Das Installationsprogramm konnte nicht geöffnet werden. Laden Sie es erneut herunter oder verwenden Sie das MSI-Paket.",
+ "es":"No se pudo abrir el instalador. Descárguelo de nuevo o use el paquete MSI.",
+ "it":"Impossibile aprire il programma di installazione. Scaricalo di nuovo o usa il pacchetto MSI.",
+ "zh":"无法打开安装程序。请重新下载或使用 MSI 安装包。",
+ "ja":"インストーラーを開けませんでした。再ダウンロードするか MSI パッケージを使用してください。",
+ "ko":"설치 프로그램을 열 수 없습니다. 다시 다운로드하거나 MSI 패키지를 사용하세요."
+}

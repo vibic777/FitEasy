@@ -1,0 +1,1 @@
+FitEasy portable mode. Data is stored in the data folder beside FitEasy.exe.
